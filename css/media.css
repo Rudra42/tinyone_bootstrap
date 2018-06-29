@@ -1,0 +1,163 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .custom_nav ul li a{
+            padding: 0 !important;
+            text-align: right;
+    }
+    .icon{
+        text-align: center;
+    }
+    .banner_image{
+        text-align: center;
+    }
+    .banner {
+    background-color: #fcdb00;
+    padding-bottom: 30px;
+}
+    .banner_content {
+    margin-top: 25px;
+    margin-left: 11px;
+}
+    .banner_content h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+    .pera_1{
+        margin-bottom: 15px;
+    }
+        .pera_2{
+        margin-bottom: 20px;
+    }
+    .edit{
+            text-align: center;
+    }
+    .img_edit{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .service_header {
+    margin-bottom: 45px;
+    margin-top: -55px;
+}
+    .wrapper_n{
+        margin-bottom: -35px !important;
+    }
+        .service {
+    padding: 75px 0;
+}
+      .custom_email{
+        padding: 7px 0px;
+      margin-bottom: 15px;
+    
+}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.custom_nav ul li a{
+            padding: 0 !important;
+            text-align: right;
+    }
+    .icon{
+        text-align: center;
+    }
+    .banner_image{
+        text-align: center;
+    }
+    .banner {
+    background-color: #fcdb00;
+    padding-bottom: 30px;
+}
+    .banner_content {
+    margin-top: 25px;
+    margin-left: 11px;
+}
+    .banner_content h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+    .pera_1{
+        margin-bottom: 15px;
+    }
+        .pera_2{
+        margin-bottom: 20px;
+    }
+     .edit{
+            text-align: center;
+    }
+    .img_edit{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .service_header {
+    margin-bottom: 45px;
+    margin-top: -55px;
+}
+    .wrapper_n{
+         margin-bottom: -35px !important;
+    }
+      
+    .service {
+    padding: 75px 0;
+}
+  .custom_email{
+        padding: 7px 0px;
+      margin-bottom: 15px;
+    
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     .custom_nav ul li a{
+            padding: 0 40px!important;
+    }
+     .banner {
+    background-color: #fcdb00;
+    padding-bottom: 30px;
+}
+    .banner_content {
+      margin-top: 40px;
+    margin-left: 11px;
+}
+  .banner_content h1 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+    .pera_1 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+      .pera_2 {
+    margin-bottom: 22px;
+    font-size: 16px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   .custom_submit{
+       padding: 8px 55px;
+    background-color: #fcdb00;
+    color: #010101 !important;
+    font-weight: bold !important;
+    border: none !important;
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+  .custom_submit{
+       padding: 8px 75px;
+    background-color: #fcdb00;
+    color: #010101 !important;
+    font-weight: bold !important;
+    border: none !important;
+}
+
+}

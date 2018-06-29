@@ -1,0 +1,106 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+/*header starts*/
+header{
+    background-color: #fcdb00;
+}
+
+.custom_nav{
+    padding: 50px;
+}
+.custom_nav ul li a{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 0 70px !important;
+}
+.custom_nav ul li:last-child a{
+    padding-right: 0px !important;
+}
+/*banner start*/
+.banner{
+     background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.banner_content{
+    margin-top: 65px;
+    margin-left: 11px;
+}
+.banner_content h1{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.pera_1{
+     font-size: 20px;
+    margin-bottom: 30px;
+}
+.pera_2{
+     font-size: 16px;
+    margin-bottom: 40px;
+}
+.icon ul li i{
+    font-size: 40px;
+    padding-right: 25px;
+}
+/*Service starts*/
+.service{
+    padding: 100px 0;
+}
+.service_header{
+        margin-bottom: 85px;
+}
+.service_header h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.service_header p{
+    font-size: 20px;
+}
+.edit{
+        margin-bottom: 75px;
+}
+.edit h1{
+        font-size: 22px;
+}
+.edit p{
+        font-size: 16px;
+}
+/*footer starts*/
+
+.footer{
+    background-color: #010101;
+    padding: 100px 0;
+}
+.footer_header{}
+.footer_header h1{
+    font-size: 32px;
+    font-weight: bold;
+    color: #fcdb00;
+}
+.footer_header p{
+    font-size: 20px;
+    color: #898989;
+}
+.custom_email{
+        padding: 7px 0px;
+    
+}
+.custom_submit{
+       padding: 8px 38px;
+    background-color: #fcdb00;
+    color: #010101 !important;
+    font-weight: bold !important;
+    border: none !important;
+}
+.icon_group{
+        padding: 80px 0 !important;
+}
+.icon_group img{
+        padding:  0 10px !important;
+}
+.footer_text{
+    font-size: 16px;
+    color: #ffffff;
+}
