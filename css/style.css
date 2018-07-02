@@ -46,7 +46,8 @@ header{
 }
 /*Service starts*/
 .service{
-    padding: 100px 0;
+       padding-top: 100px;
+    padding-bottom: 25px;
 }
 .service_header{
         margin-bottom: 85px;
@@ -84,7 +85,8 @@ header{
     color: #898989;
 }
 .custom_email{
-        padding: 7px 0px;
+    padding: 7px 0px;
+    margin-left: 22px;
     
 }
 .custom_submit{
