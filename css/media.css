@@ -44,13 +44,27 @@
         margin-bottom: -35px !important;
     }
         .service {
-    padding: 75px 0;
+    padding-bottom: 15px;
 }
       .custom_email{
         padding: 7px 0px;
-      margin-bottom: 15px;
-    
+      margin-bottom: 15px; 
+        text-align: center !important;
+           margin-left: 0 !important;
 }
+    
+    .footer_text{
+        text-align: center;
+    }
+    .footer{
+    background-color: #010101;
+    padding: 45px 0;
+}
+    .icon_group {
+    padding: 35px 0 !important;
+}
+
+
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -100,12 +114,20 @@
     }
       
     .service {
-    padding: 75px 0;
+       padding-bottom: 15px;
 }
   .custom_email{
         padding: 7px 0px;
       margin-bottom: 15px;
-    
+       text-align: center !important;
+      margin-left: 0 !important;   
+}
+    .footer{
+    background-color: #010101;
+    padding: 70px 0;
+}
+    .icon_group {
+    padding: 30px 0 !important;
 }
 }
 
@@ -135,6 +157,16 @@
     margin-bottom: 22px;
     font-size: 16px;
 }
+      .edit{
+            margin-bottom: 35px;
+    }
+    .footer{
+    background-color: #010101;
+    padding: 85px 0;
+}
+    .icon_group {
+    padding: 45px 0 !important;
+}
 
 }
 
@@ -147,13 +179,20 @@
     font-weight: bold !important;
     border: none !important;
 }
+       .footer{
+    background-color: #010101;
+    padding: 90px 0;
+}
+    .icon_group {
+    padding: 70px 0 !important;
+}
 
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { 
   .custom_submit{
-       padding: 8px 75px;
+       padding: 8px 45px;
     background-color: #fcdb00;
     color: #010101 !important;
     font-weight: bold !important;
